@@ -1,0 +1,9 @@
+{
+    "protoc": {
+        "path": "Protos/",
+        "compile_on_save": false,
+        "options": [
+            "--csharp_out=Services/"
+        ]
+    }
+}
